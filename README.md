@@ -1,6 +1,6 @@
 # Lecture Summariser
 
-**Lecture Summariser** is a web application developed during the [VisCon Hackathon](#) in October 2023. The project was built as a proof-of-concept to enhance the lecture learning experience by transcribing lecture recordings and generating insightful content.
+**Lecture Summariser** is a web application developed during the VisCon Hackathon in October 2023. The project was built as a proof-of-concept to enhance the lecture learning experience by transcribing lecture recordings and generating insightful content.
 
 ## Overview
 
