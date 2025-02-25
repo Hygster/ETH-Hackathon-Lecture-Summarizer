@@ -6,6 +6,10 @@
 
 The application automatically converts lecture audio into text, summarizes the content in various formats, generates engaging titles, extracts key topics, and links to external resources for further reading.
 
+## Try It Out
+
+Curious to see it in action? [**Click here**](https://tldr.bruol.me/) to try out the Lecture Summariser yourself.
+
 ## Features
 
 - **Transcription:** Converts lecture audio into text using OpenAI's Whisper model.
@@ -13,3 +17,4 @@ The application automatically converts lecture audio into text, summarizes the c
 - **Auto-Generated Titles:** Creates engaging titles automatically based on the lecture content.
 - **Key Topic Extraction:** Identifies and highlights the most important topics.
 - **External Resource Linking:** Connects users to additional resources, such as relevant Wikipedia articles, for deeper understanding.
+
